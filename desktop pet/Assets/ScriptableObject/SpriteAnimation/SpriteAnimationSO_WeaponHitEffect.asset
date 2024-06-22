@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d77dfe1d2d6b1e4ca7fb8d6c64d3512, type: 3}
+  m_Name: SpriteAnimationSO_WeaponHitEffect
+  m_EditorClassIdentifier: 
+  frameArray:
+  - {fileID: 287425934, guid: 26471b3de50672a4f965e0afe3d15eaa, type: 3}
+  - {fileID: 231528346, guid: 26471b3de50672a4f965e0afe3d15eaa, type: 3}
+  - {fileID: -224867622, guid: 26471b3de50672a4f965e0afe3d15eaa, type: 3}
+  - {fileID: -767025837, guid: 26471b3de50672a4f965e0afe3d15eaa, type: 3}
+  - {fileID: -313057219, guid: 26471b3de50672a4f965e0afe3d15eaa, type: 3}
+  - {fileID: -837580148, guid: 26471b3de50672a4f965e0afe3d15eaa, type: 3}
+  - {fileID: 1252817025, guid: 26471b3de50672a4f965e0afe3d15eaa, type: 3}
+  - {fileID: -1918694954, guid: 26471b3de50672a4f965e0afe3d15eaa, type: 3}
+  - {fileID: -2095765905, guid: 26471b3de50672a4f965e0afe3d15eaa, type: 3}
+  secPerFrame: 0.033
+  isLoop: 0
